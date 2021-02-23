@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">IEExp3-Step6</string>
+    <string name="ip_ddress">IP Address:</string>
+    <string name="port_number">Port Number:</string>
+    <string name="ip_ddress_write"></string>
+    <string name="port_number_write"></string>
+    <string name="button_connect">Connect</string>
+    <string name="button_discconect">Disconnect</string>
+    <string name="button_send">Send</string>
+    <string name="connection">disconnection now</string>
+    <string name="status">Status:</string>
+    <string name="question"></string>
+    <string name="result">Result:</string>
+    <string name="result_view"></string>
+    <string name="answer">Answer:</string>
+    <string name="answer_write"></string>
+    <string name="button_history_show">Histry Show</string>
+    <string name="button_history_hide">History Hide</string>
+    <string name="button_history_clear">History Clear</string>
+    <string name="history_show_text"></string>
+</resources>
